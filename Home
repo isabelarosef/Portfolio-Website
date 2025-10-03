@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>La Loba</title>
+<meta charset=UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="This is La Loba's portfolio website for FA 25 MEDP150 class"
+</head>
+
+<body>
+  <h1>LaRosa~LaLoba</h1>
+  <a href="readings.html">In Plato's Cave Assignment</a>
+  <a href="copies.html">Unedited - Homework 2</a>
+  <a href="edits.html">Edits - Homework 2</a>
+  <a href="hw3.html">Homework 3</a>
+  <a href="Raw.html">Raw Images Edited</a>
+
+
+
+  <p>I am Isabela “Jesucia LaLoba” Figueroa, a 29-year-old native from El Barrio (East Harlem), New York City.<br/> I am a mother. I am a lonely girl. I am biracial/multiethnic queer woman. I am a spiritual being; I am an Aries.<br/> I am an artist who is scared to produce their art; <i>i</i> Am Art. I am Queen of the (bathroom) mirror selfies.<br/> I am a lover: hopeless romantic. I am a cynic: judgmental hater.<br/> I am crippled by my anxieties and fears, yet in love with the messiness of what it means to be human; I <i>am</i> human.<br/> My work is about as confusing as I am, but power does lay somewhere in there even if my pen/voice shakes.</p>
+  <p>Jesucia LaLoba was born in the part of my mind that feels strong about itself (occasionally and randomly).<br/> Since the inception of LaLoba, she goes back and forth between fighting the power and hiding under a rock.<br/> She is deeply passionate about bodily autonomy, equitable society, and of course, alluring aesthetics.<br/> Jesucia LaLoba: the saintly sinner.<br/> She <i>is</i> human.</p>
+  <p><img src="images/MOS2024.png" width="400px"></p>
+
+
+
+</body>
+
+
+</html>
