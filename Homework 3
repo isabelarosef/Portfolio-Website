@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>La Loba</title>
+<meta charset=UTF-8>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="This is La Loba's portfolio website for FA 25 MEDP150 class"
+
+</head>
+
+<body>
+  <h1>LaRosa~LaLoba</h1>
+  <a href="index.html">Home</a>
+  <a href="readings.html">In Plato's Cave Assignment</a>
+  <a href="copies.html">Unedited - Homework 2</a>
+  <a href="edits.html">Edits - Homework 2</a>
+  <a href="Raw.html">Raw Images Edited</a>
+
+
+
+<p><img src="images/ShallowDOF.jpg" width="400px"></p>
+<p>Shallow Depth of Field</p>
+<p><img src="images/DeepDOF.jpg" width="400px"></p>
+<p>Deep Depth of Field</p>
+<p><img src="images/DeepDOFedit.jpg" width="400px"></p>
+<p>Photoshop Field Blur</p>
+
+
+
+</body>
+
+
+</html>
